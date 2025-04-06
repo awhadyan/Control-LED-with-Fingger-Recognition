@@ -1,5 +1,5 @@
 # Control-LED-with-Fingger-Recognition
-# ✋ Finger Detection & LED Control via ESP8266 (HTTP)
+## ✋ Finger Detection & LED Control via ESP8266 (HTTP)
 
 Control 5 LEDs using just your fingers!  
 This project combines real-time hand tracking with MediaPipe and sends HTTP requests to an ESP8266 to turn on LEDs based on the number of fingers detected.
